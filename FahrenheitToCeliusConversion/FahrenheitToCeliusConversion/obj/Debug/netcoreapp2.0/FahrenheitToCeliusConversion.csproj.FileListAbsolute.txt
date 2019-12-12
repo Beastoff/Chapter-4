@@ -1,0 +1,11 @@
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\bin\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.deps.json
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\bin\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.runtimeconfig.json
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\bin\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.runtimeconfig.dev.json
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\bin\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.dll
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\bin\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.pdb
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\obj\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.csprojAssemblyReference.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\obj\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.csproj.CoreCompileInputs.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\obj\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.AssemblyInfoInputs.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\obj\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.AssemblyInfo.cs
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\obj\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.dll
+C:\Users\gg179936\Desktop\C# Projects\Chapter 4\FahrenheitToCeliusConversion\FahrenheitToCeliusConversion\obj\Debug\netcoreapp2.0\FahrenheitToCeliusConversion.pdb
